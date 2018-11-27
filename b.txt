@@ -1,5 +1,9 @@
 jiale b
 bug
+<<<<<<< HEAD
 
 hahah
 hehe
+=======
+lala
+>>>>>>> 7ce65b2e9f3d927bb397e89832d277ee8149b288
